@@ -1,0 +1,31 @@
+/* Styles for simple task */
+
+.task-card-unchecked, .task-card-checked {
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: white;
+    width: 50em;
+    border-bottom: 1px solid lightgrey;
+}
+.task-card-checked {
+    text-decoration: line-through;
+    color: lightgray;
+}
+.task-info {
+    display: flex;
+    flex-direction: column;
+}
+img {
+    width: 1.6em;
+    height: 1.6em;
+}
+.task-button {
+    background: none;
+    padding: 0;
+    border: 0px;
+}
+.task-button:focus {
+    outline: none; 
+}
