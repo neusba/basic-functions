@@ -1,4 +1,4 @@
-# Funcionalidades Básicas
+# Funcionalidades Básicas 
 
 Este repositorio contiene una serie de **mini proyectos** que demuestran **funcionalidades básicas** aplicables a diversos tipos de aplicaciones o sistemas. Cada proyecto tiene como objetivo mostrar conceptos fundamentales de programación, estructuras de datos, algoritmos o interacciones simples que son comunes en muchos entornos de desarrollo.
 
@@ -13,7 +13,7 @@ Este repositorio contiene una serie de **mini proyectos** que demuestran **funci
 - **LISTA DE TAREAS**: Una aplicación simple que maneja una lista básica de tareas.
 
 
-# Basic Functionalities
+# Basic Functionalities 🇬🇧 🇺🇸
 
 This repository contains a series of **mini projects** that demonstrate **basic functionalities** applicable to various types of applications or systems. Each project aims to showcase fundamental programming concepts, data structures, algorithms, or simple interactions that are common in many development environments.
 
