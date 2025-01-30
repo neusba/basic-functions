@@ -1,8 +1,13 @@
-# React + Vite
+# Basic Functionalities
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a series of **mini projects** that demonstrate **basic functionalities** applicable to various types of applications or systems. Each project aims to showcase fundamental programming concepts, data structures, algorithms, or simple interactions that are common in many development environments.
 
-Currently, two official plugins are available:
+## What does this repository contain?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- A collection of small, simple projects.
+- Each project is designed to illustrate a specific functionality or concept in a direct and understandable way.
+- The projects are implemented in REACT.
+
+## Examples of projects
+
+- **TASKS-LIST**: A simple app that performs a basic tasks list.
